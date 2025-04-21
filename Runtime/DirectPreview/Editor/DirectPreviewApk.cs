@@ -27,7 +27,7 @@ namespace Wave.XR.DirectPreview.Editor
 			PlayerSettings.bundleVersion = "2.0.0";
 			PlayerSettings.companyName = "HTC Corp.";
 			PlayerSettings.defaultInterfaceOrientation = UIOrientation.LandscapeLeft;
-			PlayerSettings.Android.minSdkVersion = AndroidSdkVersions.AndroidApiLevel22;
+			PlayerSettings.Android.minSdkVersion = AndroidSdkVersions.AndroidApiLevel23;
 		}
 
 		//[UnityEditor.MenuItem("Wave/DirectPreview/Install Device APK", priority = 801)]
